@@ -33,7 +33,19 @@ GPT-4V(ision) gets tripped by images with counterfactuals, sticking to what's 'c
     <img src="assets/factual_2.jfif" alt="None" style="width: 45%; margin-left: 5px;">
 </div>
 
+##  Image-to-Image Interference
+Composite images lead to confusion! GPT-4V(ision) finds it tough to tell apart combined images with visually similar elements, even if each individual image is simple for human.
 
+<div style="display: flex; justify-content: center;">
+    <img src="assets/i2i.png" alt="None" style="width: 45%; margin-right: 5px;">
+    <img src="assets/i2i_2.png" alt="None" style="width: 45%; margin-left: 5px;">
+</div>
+
+##  Text-to-Image Interference
+GPT-4V(ision) might just follow a misleading text prompt, ignoring the actual image.
+<div style="display: flex; justify-content: center;">
+    <img src="assets/t2i.png" alt="None" style="width: 45%; margin-right: 5px;">
+</div>
 
  
 ## Citation
