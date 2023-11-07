@@ -11,8 +11,13 @@
 
 Introducing our innovative 'Bingo' benchmark, we delve into the prevalent manifestations of inaccuracies in GPT-4V(ision): bias and interference.
 
-
 ![None](assets/all_data.png)
+## Region
+🌍GPT-4V(ision) favors Western images over those from other regions (e.g., East Asian, Africa) and exhibits region bias. 
+<div style="display: flex; justify-content: center;">
+    <img src="assets/regio.png" alt="None" style="width: 45%; margin-right: 5px;">
+    <img src="assets/region_2.jfif" alt="Noe" style="width: 45%; margin-left: 5px;">
+</div>
 
 
 ## Citation
