@@ -16,7 +16,7 @@ Introducing our innovative 'Bingo' benchmark, we delve into the prevalent manife
 🌍GPT-4V(ision) favors Western images over those from other regions (e.g., East Asian, Africa) and exhibits region bias. 
 <div style="display: flex; justify-content: center;">
     <img src="assets/regio.png" alt="None" style="width: 45%; margin-right: 5px;">
-    <img src="assets/region_2.jfif" alt="Noe" style="width: 45%; margin-left: 5px;">
+    <img src="assets/region_2.jfif" alt="None" style="width: 45%; margin-left: 5px;">
 </div>
 
 ## OCR Bias
@@ -44,7 +44,7 @@ Composite images lead to confusion! GPT-4V(ision) finds it tough to tell apart c
 ##  Text-to-Image Interference
 GPT-4V(ision) might just follow a misleading text prompt, ignoring the actual image.
 <div style="display: flex; justify-content: center;">
-    <img src="assets/t2i.png" alt="None" style="width: 45%; margin-right: 5px;">
+    <img src="assets/t2i.png" alt="None">
 </div>
 
  
