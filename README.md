@@ -12,14 +12,30 @@
 Introducing our innovative 'Bingo' benchmark, we delve into the prevalent manifestations of inaccuracies in GPT-4V(ision): bias and interference.
 
 ![None](assets/all_data.png)
-## Region
+## Region Bias
 🌍GPT-4V(ision) favors Western images over those from other regions (e.g., East Asian, Africa) and exhibits region bias. 
 <div style="display: flex; justify-content: center;">
     <img src="assets/regio.png" alt="None" style="width: 45%; margin-right: 5px;">
     <img src="assets/region_2.jfif" alt="Noe" style="width: 45%; margin-left: 5px;">
 </div>
 
+## OCR Bias
+GPT-4V(ision) outperforms in English & French text recognition within images compared with other three languages.
+<div style="display: flex; justify-content: center;">
+    <img src="assets/regio.png" alt="None" style="width: 45%; margin-right: 5px;">
+    <img src="assets/language_2.jfif" alt="Noe" style="width: 45%; margin-left: 5px;">
+</div>
 
+## Factual bias
+GPT-4V(ision) gets tripped by images with counterfactuals, sticking to what's 'common sense' instead of what's in the image. Like missing Saturn in a solar system photo, it still calls out Saturn.
+<div style="display: flex; justify-content: center;">
+    <img src="assets/factual.png" alt="None" style="width: 45%; margin-right: 5px;">
+    <img src="assets/factual_2.jfif" alt="None" style="width: 45%; margin-left: 5px;">
+</div>
+
+
+
+ 
 ## Citation
 If you found this work useful, consider citing our paper as followed:
 ```
