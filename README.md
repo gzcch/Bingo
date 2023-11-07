@@ -38,7 +38,7 @@ Composite images lead to confusion! GPT-4V(ision) finds it tough to tell apart c
 
 <div style="display: flex; justify-content: center;">
     <img src="assets/i2i.png" alt="None" style="width: 45%; margin-right: 5px;">
-    <img src="assets/i2i_2.png" alt="None" style="width: 45%; margin-left: 5px;">
+    <img src="assets/i2i_2.jfif" alt="None" style="width: 45%; margin-left: 5px;">
 </div>
 
 ##  Text-to-Image Interference
