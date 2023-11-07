@@ -7,6 +7,14 @@
     <a href="https://arxiv.org/pdf/2311.03287.pdf"><img src="assets/Paper-Arxiv-orange.svg" ></a>
 </div>
 
+🚨  Revealing the minds of GPT-4V(ision)! We're exploring the Limitations of Visual Language Models!
+
+Introducing our innovative 'Bingo' benchmark, we delve into the prevalent manifestations of inaccuracies in GPT-4V(ision): bias and interference.
+
+
+![None](assets/all_data.png)
+
+
 ## Citation
 If you found this work useful, consider citing our paper as followed:
 ```
