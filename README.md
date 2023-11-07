@@ -30,7 +30,7 @@ GPT-4V(ision) outperforms in English & French text recognition within images com
 GPT-4V(ision) gets tripped by images with counterfactuals, sticking to what's 'common sense' instead of what's in the image. Like missing Saturn in a solar system photo, it still calls out Saturn.
 <div style="display: flex; justify-content: center;">
     <img src="assets/factual.png" alt="None" style="width: 45%; margin-right: 5px;">
-    <img src="assets/factual_2.jfif" alt="None" style="width: 45%; margin-left: 5px;">
+    <img src="assets/factual_main.png" alt="None" style="width: 45%; margin-left: 5px;">
 </div>
 
 ##  Image-to-Image Interference
