@@ -6,3 +6,16 @@
 <div align="center">
     <a href="https://arxiv.org/pdf/2311.03287.pdf"><img src="assets/Paper-Arxiv-orange.svg" ></a>
 </div>
+
+## Citation
+If you found this work useful, consider citing our paper as followed:
+```
+@misc{cui2023holistic,
+      title={Holistic Analysis of Hallucination in GPT-4V(ision): Bias and Interference Challenges}, 
+      author={Chenhang Cui and Yiyang Zhou and Xinyu Yang and Shirley Wu and Linjun Zhang and James Zou and Huaxiu Yao},
+      year={2023},
+      eprint={2311.03287},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG}
+}
+```
