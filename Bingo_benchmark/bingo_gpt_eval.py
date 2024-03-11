@@ -14,7 +14,7 @@ import argparse
 from tqdm import tqdm
 parser = argparse.ArgumentParser()
 parser.add_argument("--model_name", type=str, default ='model' )
-parser.add_argument("--jsonl_file_path", default = "example.jsonl", type=str)
+parser.add_argument("--answer_file_path", default = "example.jsonl", type=str)
 parser.add_argument("--output_dir", type=str)
 parser.add_argument("--openai_key", type=str)
 args = parser.parse_args()
