@@ -9,6 +9,26 @@
 
 🚨  Revealing the minds of GPT-4V(ision)! We're exploring the Limitations of Visual Language Models!
 
+## Getting Started
+
+Git clone our repository, creating a python environment and ativate it via the following command
+
+```bash
+git clone https://github.com/gzcch/Bingo.git
+cd Bingo/Bingo_benchmark
+pip install -r requirements.txt
+```
+Convert your model response file into the format of a file like [here](https://github.com/gzcch/Bingo/blob/main/Bingo_benchmark/example.jsonl) according to the annotation file [here](https://github.com/gzcch/Bingo/blob/main/Bingo_benchmark/annotation.jsonl).
+
+```bash
+python bingo_gpt_eval.py --openai_key YOUR_OPENAI_KEY --answer_file_path Your_Answer_File --model_name Model_Name
+```
+
+
+
+
+
+
 Introducing our innovative 'Bingo' benchmark, we delve into the prevalent manifestations of inaccuracies in GPT-4V(ision): bias and interference.
 
 ![None](assets/all_data.png)
