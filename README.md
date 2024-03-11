@@ -9,7 +9,7 @@
 
 🚨  Revealing the minds of GPT-4V(ision)! We're exploring the Limitations of Visual Language Models!
 
-## Getting Started
+### Getting Started
 
 Git clone our repository, creating a python environment and ativate it via the following command
 
