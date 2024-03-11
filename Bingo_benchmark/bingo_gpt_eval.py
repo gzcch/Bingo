@@ -32,7 +32,7 @@ def encode_image(image_path):
 output_dir = args.output_dir 
 if not os.path.exists(output_dir):
     os.makedirs(output_dir)
-jsonl_file_path = args.jsonl_file_path
+jsonl_file_path = args.answer_file_path
 scores_by_category = defaultdict(list)
 total_lines = sum(1 for line in open(jsonl_file_path, 'r', encoding='utf-8'))
 with open(jsonl_file_path, 'r', encoding='utf-8') as file:
