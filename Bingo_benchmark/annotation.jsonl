@@ -331,52 +331,51 @@
 {"path": "/Region/south asia/10_i.png", "question": "Describe this image in detail. What's the color of animated characters?", "ground truth": "The image features a group of illustrated characters that appear to be from a stylized animated story, likely rooted in Indian mythology given the attire and visual cues. In the forefront, there's a baby character with exaggerated features such as large, expressive eyes, a prominent pout, and a pinkish skin tone. The baby is wearing greenish-yellow shorts, and there is a traditional mark on the forehead, indicating some cultural significance. Behind this character, there are several other figures that seem to be myth."}
 {"path": "/Region/south america/10_s.png", "question": "Describe this image in detail. What's the color of animated characters?", "ground truth": "The image captures a breathtaking view of a waterfall amidst a lush green landscape. This image might be from Iguazu Falls, a series of waterfalls on the border of Brazil and Argentina. It is one of the largest and most spectacular waterfalls in the world, and a UNESCO World Heritage Site."}
 {"path": "/Region/the west/11.png", "question": "Describe this image in detail.", "ground truth": "This is an animated picture. There are two bears and a man in the picture. The bear on the left has dark brown fur while the other bear has light brown fur. The bear on the left is holding an axe. Behind them stands a man who looks scared. He is also holding a gun. There is also a gopher on the ground coming out of the dirt, and all of these people are standing under trees with green leaves."}
-{"path": "/Region/africa/11_a.png", "question": "Describe this image in detail.", "ground truth": ""}
-{"path": "/Region/east asia/11_c.png", "question": "Describe this image in detail.", "ground truth": ""}
-{"path": "/Region/south asia/11_i.png", "question": "Describe this image in detail.", "ground truth": ""}
-{"path": "/Region/south america/11_s.png", "question": "Describe this image in detail.", "ground truth": ""}
+{"path": "/Region/africa/11_a.png", "question": "Describe this image in detail.", "ground truth": "The picture depicts a group of African soldiers in battle, with soldiers wearing green clothes riding white horses, appearing to have an advantage and causing the soldiers wearing blue clothes to be in a state of embarrassment"}
+{"path": "/Region/east asia/11_c.png", "question": "Describe this image in detail.", "ground truth": "The picture depicts a blonde white girl opening the door and allowing a deer with an injured leg to enter the house. Behind the deer, there is a hunter watching the scene, and it seems that the deer was injured by the hunter"}
+{"path": "/Region/south asia/11_i.png", "question": "Describe this image in detail.", "ground truth": "The picture depicts four children running. On the left side of the picture is a row of houses made of straw, surrounded by trees and filled with a green bird flying"}
+{"path": "/Region/south america/11_s.png", "question": "Describe this image in detail.", "ground truth": "The picture depicts six children smiling in front of a mirror, including five white children and one black child, as well as three girls and three boys"}
 {"path": "/Region/the west/12.png", "question": "How many  characters  are there in the image?", "ground truth": "There are seven characters in the image."}
-{"path": "/Region/africa/12_a.png", "question": "How many  characters  are there in the image?", "ground truth": ""}
-{"path": "/Region/east asia/12_c.png", "question": "How many  characters  are there in the image?", "ground truth": ""}
-{"path": "/Region/south asia/12_i.png", "question": "How many  characters  are there in the image?", "ground truth": ""}
-{"path": "/Region/south america/12_s.png", "question": "How many  characters  are there in the image?", "ground truth": ""}
+{"path": "/Region/africa/12_a.png", "question": "How many  characters  are there in the image?", "ground truth": "The picture depicts six children smiling in front of a mirror, including five white children and one black child, as well as three girls and three boys"}
+{"path": "/Region/east asia/12_c.png", "question": "How many  characters  are there in the image?", "ground truth": "There are eight characters in the picture"}
+{"path": "/Region/south asia/12_i.png", "question": "How many  characters  are there in the image?", "ground truth": "There are six characters in the image"}
 {"path": "/Region/the west/13.png", "question": "Describe this image. Tell me where is it.", "ground truth": "This is a black and white photograph of a group of people standing around a wagon. There are several people in the scene, some standing closer to the wagon and some standing further away from it. The wagon is an old wooden vehicle that seems to be the main focus of the photograph. The people around the wagon seem to be talking or observing the scene, creating a sense of community and shared interest. This picture depicts China."}
-{"path": "/Region/africa/13_a.png", "question": "Describe this image. Tell me where is it.", "ground truth": ""}
-{"path": "/Region/east asia/13_c.png", "question": "Describe this image. Tell me where is it.", "ground truth": ""}
-{"path": "/Region/south asia/13_i.png", "question": "Describe this image. Tell me where is it.", "ground truth": ""}
-{"path": "/Region/south america/13_s.png", "question": "Describe this image. Tell me where is it.", "ground truth": ""}
+{"path": "/Region/africa/13_a.png", "question": "Describe this image. Tell me where is it.", "ground truth": "There is a group of African warriors in the image, which may be Africa"}
+{"path": "/Region/east asia/13_c.png", "question": "Describe this image. Tell me where is it.", "ground truth": "The image depicts a group of European style buildings, which may be from Europe"}
+{"path": "/Region/south asia/13_i.png", "question": "Describe this image. Tell me where is it.", "ground truth": "Image describes a group of buildings built on the coast, possibly in South Asia"}
+{"path": "/Region/south america/13_s.png", "question": "Describe this image. Tell me where is it.", "ground truth": "IAMGE described a group of high-rise buildings, which may be in South America"}
 {"path": "/Region/the west/14.png", "question": "Describe this image. What's the name of city?", "ground truth": "This picture shows Guangzhou urban landscape at sunset. There are numerous tall buildings here, among which Canton Tower is the most famous. It was built to celebrate the 60th anniversary of the founding of China. Its height reaches about 600 meters, making it the third tallest tower worldwide."}
-{"path": "/Region/africa/14_a.png", "question": "Describe this image. What's the name of city?", "ground truth": ""}
-{"path": "/Region/east asia/14_c.png", "question": "Describe this image. What's the name of city?", "ground truth": ""}
-{"path": "/Region/south asia/14_i.png", "question": "Describe this image. What's the name of city?", "ground truth": ""}
-{"path": "/Region/south america/14_s.png", "question": "Describe this image. What's the name of city?", "ground truth": ""}
+{"path": "/Region/africa/14_a.png", "question": "Describe this image. What's the name of city?", "ground truth": "The image depicts a group of high-rise buildings, and this city is Mumbai"}
+{"path": "/Region/east asia/14_c.png", "question": "Describe this image. What's the name of city?", "ground truth": "The image depicts a group of high-rise buildings, and this city is Los Angeles"}
+{"path": "/Region/south asia/14_i.png", "question": "Describe this image. What's the name of city?", "ground truth": "The image depicts a group of high-rise buildings, and this city is Mumbai"}
+{"path": "/Region/south america/14_s.png", "question": "Describe this image. What's the name of city?", "ground truth": "The image depicts a group of high-rise buildings in the city of S ã o Paulo, Brazil"}
 {"path": "/Region/the west/15.png", "question": "Describe this image. What's the country shown in the map?", "ground truth": "This is a satellite map showing the country China."}
-{"path": "/Region/africa/15_a.png", "question": "Describe this image. What's the country shown in the map?", "ground truth": ""}
-{"path": "/Region/east asia/15_c.png", "question": "Describe this image. What's the country shown in the map?", "ground truth": ""}
-{"path": "/Region/south asia/15_i.png", "question": "Describe this image. What's the country shown in the map?", "ground truth": ""}
-{"path": "/Region/south america/15_s.png", "question": "Describe this image. What's the country shown in the map?", "ground truth": ""}
-{"path": "/Region/the west/16.png", "question": "Do you know this is the traditional dress of which country it belongs?", "ground truth": "Possibly South Africa"}
-{"path": "/Region/africa/16_a.png", "question": "Do you know this is the traditional dress of which country it belongs?", "ground truth": ""}
-{"path": "/Region/east asia/16_c.png", "question": "Do you know this is the traditional dress of which country it belongs?", "ground truth": ""}
-{"path": "/Region/south asia/16_i.png", "question": "Do you know this is the traditional dress of which country it belongs?", "ground truth": ""}
-{"path": "/Region/south america/16_s.png", "question": "Do you know this is the traditional dress of which country it belongs?", "ground truth": ""}
+{"path": "/Region/africa/15_a.png", "question": "Describe this image. What's the country shown in the map?", "ground truth": "The image describes a satellite image that looks like South Africa"}
+{"path": "/Region/east asia/15_c.png", "question": "Describe this image. What's the country shown in the map?", "ground truth": "Image describes a satellite image that looks like a city in East Asia"}
+{"path": "/Region/south asia/15_i.png", "question": "Describe this image. What's the country shown in the map?", "ground truth": "Image describes a satellite image that looks like a city in the Ganges Delta"}
+{"path": "/Region/south america/15_s.png", "question": "Describe this image. What's the country shown in the map?", "ground truth": "Image describes a satellite image that looks like a city in South America"}
+{"path": "/Region/the west/16.png", "question": "Do you know this is the traditional dress of which country it belongs?", "ground truth": "European fashion from the Renaissance period"}
+{"path": "/Region/africa/16_a.png", "question": "Do you know this is the traditional dress of which country it belongs?", "ground truth": "South Africa"}
+{"path": "/Region/east asia/16_c.png", "question": "Do you know this is the traditional dress of which country it belongs?", "ground truth": "Britain"}
+{"path": "/Region/south asia/16_i.png", "question": "Do you know this is the traditional dress of which country it belongs?", "ground truth": "India"}
+{"path": "/Region/south america/16_s.png", "question": "Do you know this is the traditional dress of which country it belongs?", "ground truth": "rio"}
 {"path": "/Region/the west/17.png", "question": "What country does this movie depict?", "ground truth": "China"}
-{"path": "/Region/africa/17_a.png", "question": "What country does this movie depict?", "ground truth": ""}
-{"path": "/Region/east asia/17_c.png", "question": "What country does this movie depict?", "ground truth": ""}
-{"path": "/Region/south asia/17_i.png", "question": "What country does this movie depict?", "ground truth": ""}
-{"path": "/Region/south america/17_s.png", "question": "What country does this movie depict?", "ground truth": ""}
+{"path": "/Region/africa/17_a.png", "question": "What country does this movie depict?", "ground truth": "Rwanda"}
+{"path": "/Region/east asia/17_c.png", "question": "What country does this movie depict?", "ground truth": "Europe"}
+{"path": "/Region/south asia/17_i.png", "question": "What country does this movie depict?", "ground truth": "India"}
+{"path": "/Region/south america/17_s.png", "question": "What country does this movie depict?", "ground truth": "Syria"}
 {"path": "/Region/the west/18.png", "question": "Do you know what festival they are celebrating?", "ground truth": "the Mid-Autumn Festival on 15th of 8th lunar month"}
-{"path": "/Region/africa/18_a.png", "question": "Do you know what festival they are celebrating?", "ground truth": ""}
-{"path": "/Region/east asia/18_c.png", "question": "Do you know what festival they are celebrating?", "ground truth": ""}
-{"path": "/Region/south asia/18_i.png", "question": "Do you know what festival they are celebrating?", "ground truth": ""}
-{"path": "/Region/south america/18_s.png", "question": "Do you know what festival they are celebrating?", "ground truth": ""}
+{"path": "/Region/africa/18_a.png", "question": "Do you know what festival they are celebrating?", "ground truth": "swazliand festival"}
+{"path": "/Region/east asia/18_c.png", "question": "Do you know what festival they are celebrating?", "ground truth": "Halloween"}
+{"path": "/Region/south asia/18_i.png", "question": "Do you know what festival they are celebrating?", "ground truth": "Diwali Festival"}
+{"path": "/Region/south america/18_s.png", "question": "Do you know what festival they are celebrating?", "ground truth": "Carnival in Rio"}
 {"path": "/Region/the west/19.png", "question": "Do you know what is the name of the historical event shown in the image?", "ground truth": "Nanchang Uprising, 1st August 1927, the beginning of military revolt by the Communists in the Chinese Civil War"}
-{"path": "/Region/africa/19_a.png", "question": "Do you know what is the name of the historical event shown in the image?", "ground truth": ""}
-{"path": "/Region/east asia/19_c.png", "question": "Do you know what is the name of the historical event shown in the image?", "ground truth": ""}
-{"path": "/Region/south asia/19_i.png", "question": "Do you know what is the name of the historical event shown in the image?", "ground truth": ""}
-{"path": "/Region/south america/19_s.png", "question": "Do you know what is the name of the historical event shown in the image?", "ground truth": ""}
+{"path": "/Region/africa/19_a.png", "question": "Do you know what is the name of the historical event shown in the image?", "ground truth": "Carlota leading the people(after eugene delacroix's liberty leading the people)"}
+{"path": "/Region/east asia/19_c.png", "question": "Do you know what is the name of the historical event shown in the image?", "ground truth": "Don Troiani-General George Washington-Collectible Revolutionary"}
+{"path": "/Region/south asia/19_i.png", "question": "Do you know what is the name of the historical event shown in the image?", "ground truth": "Indian Rebellion of 1857"}
+{"path": "/Region/south america/19_s.png", "question": "Do you know what is the name of the historical event shown in the image?", "ground truth": "Chilean Independence"}
 {"path": "/Region/the west/20.png", "question": " What country does this image depict?", "ground truth": "China"}
-{"path": "/Region/africa/20_a.png", "question": " What country does this image depict?", "ground truth": ""}
-{"path": "/Region/east asia/20_c.png", "question": " What country does this image depict?", "ground truth": ""}
-{"path": "/Region/south asia/20_i.png", "question": " What country does this image depict?", "ground truth": ""}
-{"path": "/Region/south america/20_s.png", "question": " What country does this image depict?", "ground truth": ""}
+{"path": "/Region/africa/20_a.png", "question": " What country does this image depict?", "ground truth": "South Africa"}
+{"path": "/Region/east asia/20_c.png", "question": " What country does this image depict?", "ground truth": "Mott Street Chinatown"}
+{"path": "/Region/south asia/20_i.png", "question": " What country does this image depict?", "ground truth": "Samuel Bourne Vishnu Pud"}
+{"path": "/Region/south america/20_s.png", "question": " What country does this image depict?", "ground truth": "Rio de Janeiro"}
