@@ -10,7 +10,7 @@
 🚨  Revealing the minds of GPT-4V(ision)! We're exploring the Limitations of Visual Language Models!
 
 
-🚨  Our dataset is now available on [Hugging Face](https://huggingface.co/datasets/PahaII/Bingo), thanks to [Hao Qin](https://www.haqtu.me/)'s contribution.
+🚨  Our dataset is now available on [Hugging Face](https://huggingface.co/datasets/PahaII/Bingo), thanks to [Haoqin](https://www.haqtu.me/)'s contribution.
 
 
 ### Getting Started
