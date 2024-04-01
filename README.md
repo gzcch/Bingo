@@ -26,7 +26,7 @@ Download the dataset from [here](https://drive.google.com/file/d/1o3z6cSZUVa3FcT
 cd Bingo_benchmark
 pip install -r requirements.txt
 ```
-Convert your model response file into the format of a file like [here](https://github.com/gzcch/Bingo/blob/main/Bingo_benchmark_case/example.jsonl) according to the annotation file [here](https://github.com/gzcch/Bingo/blob/main/Bingo_benchmark_case/annotation.jsonl).
+Convert your model response file into the format of a file like [here](https://github.com/gzcch/Bingo/blob/main/example.jsonl) according to the annotation file [here](https://github.com/gzcch/Bingo/blob/main/annotation.jsonl).
 
 ```bash
 python bingo_gpt_eval.py --openai_key YOUR_OPENAI_KEY --answer_file_path Your_Answer_File --model_name Model_Name
