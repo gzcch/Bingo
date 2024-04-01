@@ -19,10 +19,14 @@ Git clone our repository, creating a python environment and ativate it via the f
 
 ```bash
 git clone https://github.com/gzcch/Bingo.git
-cd Bingo/Bingo_benchmark
+cd Bingo 
+```
+Download the dataset from [here](https://drive.google.com/file/d/1o3z6cSZUVa3FcT3N05_xrYdOZGfs0yOV/view?usp=drive_link) 
+```bash
+cd Bingo_benchmark
 pip install -r requirements.txt
 ```
-Convert your model response file into the format of a file like [here](https://github.com/gzcch/Bingo/blob/main/Bingo_benchmark/example.jsonl) according to the annotation file [here](https://github.com/gzcch/Bingo/blob/main/Bingo_benchmark/annotation.jsonl).
+Convert your model response file into the format of a file like [here](https://github.com/gzcch/Bingo/blob/main/Bingo_benchmark_case/example.jsonl) according to the annotation file [here](https://github.com/gzcch/Bingo/blob/main/Bingo_benchmark_case/annotation.jsonl).
 
 ```bash
 python bingo_gpt_eval.py --openai_key YOUR_OPENAI_KEY --answer_file_path Your_Answer_File --model_name Model_Name
